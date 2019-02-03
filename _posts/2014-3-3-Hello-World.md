@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Testimony and the function of religion.
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Today I had the opportunity to attend church for the first time in nearly a year to bless my brother's newly born baby.  As I walked into the chapel, my first impression was how few people were there.  Even though the church is now on it's two hour schedule there were huge amounts of chairs. 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
